@@ -1,7 +1,14 @@
-﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Contact.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="COMP2007_Project1_Part1.Contact" %>
+﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/ContactForm.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="COMP2007_Project1_Part1.Contact" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
+<!--
+    Author's name: D'Arcey Taylor, Chad Ostler
+    Student	Number: 200302660, 200301048
+    Date Modified: 2016/06/08
+    Version: 0.0.2
+    File Description: This our custom contact form, currently not working
+-->
     <div class="container">
         <div class="row">
             <div class="col-md-offset-2 col-md-6 text-center">

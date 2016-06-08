@@ -2,6 +2,14 @@
 
 <%@ Register Src="~/User_Controls/Navbar.ascx" TagName="Navbar" TagPrefix="bs3" %>
 
+<!--
+    Author's name: D'Arcey Taylor, Chad Ostler
+    Student	Number: 200302660, 200301048
+    Date Modified: 2016/06/08
+    Version: 0.0.2
+    File Description: This file contains our CSS and Javascript links, for the pages that are linked to this master page
+-->
+
 <!DOCTYPE html>
 
 <html lang="en">

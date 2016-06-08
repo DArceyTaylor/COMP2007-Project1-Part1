@@ -10,7 +10,7 @@
 namespace COMP2007_Project1_Part1 {
     
     
-    public partial class Contact {
+    public partial class ContactFrom {
         
         /// <summary>
         /// head control.

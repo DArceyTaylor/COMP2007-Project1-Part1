@@ -6,3 +6,10 @@
         </BodyContent>
     </bs3:Jumbotron>
 </asp:Content>
+<!--
+    Author's name: D'Arcey Taylor, Chad Ostler
+    Student	Number: 200302660, 200301048
+    Date Modified: 2016/06/08
+    Version: 0.0.2
+    File Description: This file contains our home page, with welcome page
+-->
