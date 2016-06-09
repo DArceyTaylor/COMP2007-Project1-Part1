@@ -33,6 +33,12 @@ namespace COMP2007_Project1_Part1
                 case "Home Page":
                     Home.Attributes.Add("class", "active");
                     break;
+                case "Tracker":
+                    Tracker.Attributes.Add("class", "active");
+                    break;
+                case "Login":
+                    Login.Attributes.Add("class", "active");
+                    break;
                 case "Contact":
                     Contact.Attributes.Add("class", "active");
                     break;
