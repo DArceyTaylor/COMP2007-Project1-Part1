@@ -76,6 +76,7 @@
     <Content Include="Site.Master" />
     <Content Include="Scripts\jquery-2.2.3.min.map" />
     <Content Include="ContactForm.Master" />
+    <Content Include="GameSelection.aspx" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -184,6 +185,16 @@
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
     </Compile>
+    <Compile Include="GameSelection.aspx.cs">
+      <DependentUpon>GameSelection.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GameSelection.aspx.designer.cs">
+      <DependentUpon>GameSelection.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
